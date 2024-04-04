@@ -1,0 +1,15 @@
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\obj\Debug\net6.0\WebApiBooks.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\obj\Debug\net6.0\WebApiBooks.Application.AssemblyInfoInputs.cache
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\obj\Debug\net6.0\WebApiBooks.Application.AssemblyInfo.cs
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\obj\Debug\net6.0\WebApiBooks.Application.csproj.CoreCompileInputs.cache
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\bin\Debug\net6.0\WebApiBooks.Application.deps.json
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\bin\Debug\net6.0\WebApiBooks.Application.dll
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\bin\Debug\net6.0\WebApiBooks.Application.pdb
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\bin\Debug\net6.0\WebApiBooks.Repository.dll
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\bin\Debug\net6.0\WebApiBooks.Repository.pdb
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\obj\Debug\net6.0\WebApiBooks.Application.csproj.AssemblyReference.cache
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\obj\Debug\net6.0\WebApiBooks.Application.csproj.CopyComplete
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\obj\Debug\net6.0\WebApiBooks.Application.dll
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\obj\Debug\net6.0\refint\WebApiBooks.Application.dll
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\obj\Debug\net6.0\WebApiBooks.Application.pdb
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Application\obj\Debug\net6.0\ref\WebApiBooks.Application.dll

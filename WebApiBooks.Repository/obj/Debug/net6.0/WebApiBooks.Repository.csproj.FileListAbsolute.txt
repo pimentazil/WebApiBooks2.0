@@ -1,0 +1,12 @@
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Repository\bin\Debug\net6.0\WebApiBooks.Repository.deps.json
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Repository\bin\Debug\net6.0\WebApiBooks.Repository.dll
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Repository\bin\Debug\net6.0\WebApiBooks.Repository.pdb
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Repository\obj\Debug\net6.0\WebApiBooks.Repository.csproj.AssemblyReference.cache
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Repository\obj\Debug\net6.0\WebApiBooks.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Repository\obj\Debug\net6.0\WebApiBooks.Repository.AssemblyInfoInputs.cache
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Repository\obj\Debug\net6.0\WebApiBooks.Repository.AssemblyInfo.cs
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Repository\obj\Debug\net6.0\WebApiBooks.Repository.csproj.CoreCompileInputs.cache
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Repository\obj\Debug\net6.0\WebApiBooks.Repository.dll
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Repository\obj\Debug\net6.0\refint\WebApiBooks.Repository.dll
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Repository\obj\Debug\net6.0\WebApiBooks.Repository.pdb
+C:\Users\1math\OneDrive\Documentos\Programação\WebApiBooks\WebApiBooks.Repository\obj\Debug\net6.0\ref\WebApiBooks.Repository.dll
